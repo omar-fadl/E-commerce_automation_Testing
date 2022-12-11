@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="60.373">
+    <testcase classname="Logged User shall make order" name="Logged User shall make successful order" time="60.073">
+        <system-out><![CDATA[Given user go to login page.................................................passed
+And user login with "omarfadl000@gmail.com" and "omar123"...................passed
+And user press on login button..............................................passed
+Then user login to the system successfully..................................passed
+When user enter "First Prize Pies" in search box............................passed
+And user click on product "First Prize Pies"................................passed
+And user click on add to cart button........................................passed
+Then product "First Prize Pies" shall be added to cart......................passed
+When click on agree on terms and checkout buttons...........................passed
+And logged user should fill Billing address field...........................passed
+And logged user should fill shipping method field...........................passed
+And logged user should fill payment method field............................passed
+And logged user should fill payment Info field..............................passed
+And logged user should place order..........................................passed
+Then order should be completed..............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
