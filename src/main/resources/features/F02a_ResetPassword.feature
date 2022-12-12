@@ -1,3 +1,4 @@
+@smoke
 Feature: registered user could reset his password
 Scenario: user could reset password
 Given user go to login page
