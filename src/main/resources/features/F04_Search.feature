@@ -1,4 +1,4 @@
-
+@smoke
 Feature: F04_Search Logged user search for product by name
   Background:
     Given user go to login page
