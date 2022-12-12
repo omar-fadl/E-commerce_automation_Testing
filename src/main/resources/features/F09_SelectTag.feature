@@ -1,4 +1,4 @@
-
+@smoke
 Feature: Logged User shall select different tags
   Scenario: Logged user shall select different tags successfully
     Given user go to login page
