@@ -1,4 +1,4 @@
-
+@smoke
 Feature: Logged User shall make order
   Scenario: Logged User shall make successful order
     Given user go to login page
