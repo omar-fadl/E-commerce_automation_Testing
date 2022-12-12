@@ -1,4 +1,4 @@
-
+@smoke
 Feature: Logged user shall add product to shopping comparelist
   Scenario:  Logged User shall add different products to compareList
     Given user go to login page
