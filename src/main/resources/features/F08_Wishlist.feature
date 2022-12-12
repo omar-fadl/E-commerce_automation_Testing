@@ -1,4 +1,4 @@
-
+@smoke
 Feature: F08_WishList | users could add product to WishList
   Scenario: verify that the massege of add product to WishList is displayed
     When user click on wishlist
