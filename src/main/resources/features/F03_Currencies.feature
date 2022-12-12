@@ -1,4 +1,4 @@
-
+@smoke
 Feature: F03_Currencies--> logged user can change currency from us dollar to Euro
   Scenario: loged user check that all product price contain symbol "€" when select currency Euro
     Given user go to login page
