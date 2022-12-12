@@ -1,4 +1,4 @@
-
+@smoke
 Feature: F06_homeSlider | users could switch between sliders
   Scenario: user switch between sliders and url change in tabs
     When user click on Nokia Lumia 1020
