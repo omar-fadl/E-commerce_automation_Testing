@@ -1,4 +1,4 @@
-
+@smoke
 Feature: Logged user shall add product to shopping cart/wishlist/comparelist
   Scenario:  Logged User shall add different products to shopping cart
     Given user go to login page
